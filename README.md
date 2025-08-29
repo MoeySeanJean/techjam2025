@@ -16,3 +16,6 @@ HF_TOKEN=[your_token_here]
 OPENAI_API_KEY=[your_key_here]
 ```
 5. Download data from [Kaggle](https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews) and [UCSD](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/). Place the dwonloaded dataset in `./data` directory.
+
+## Solution
+Our proposed system addresses the challenge by constructing a structured pipeline that integrates pseudo-labeling, supervised model training, and policy enforcement. The approach is designed to be scalable and adaptable, ensuring that reviews are evaluated not only for their linguistic content but also for their compliance with platform guidelines.
