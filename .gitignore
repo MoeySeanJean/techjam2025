@@ -1,6 +1,6 @@
 /data/*
 .env
-!/data/review-Vermont_10-labeled-merged.csv
+!/data/review-Vermont_10-labeled.csv
 !/data/review-Vermont_10-cleaned.csv
 !/data/reviews-cleaned.csv
 !/data/reviews-labeled.csv
