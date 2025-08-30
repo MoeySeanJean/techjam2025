@@ -84,7 +84,6 @@ OPENAI_API_KEY=[your_key_here]
 - Match the amount of flagged and clean reviews in dataset
 
 4. `bert.ipynb`
-- Our bert solution
 - Train the model
 - Test the model with few examples
 
