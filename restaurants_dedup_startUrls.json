@@ -1,0 +1,1936 @@
+{
+  "startUrls": [
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=COURTS%20Funan&query_place_id=ChIJDxrp06AZ2jER_-a3urQCtWs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Boleh%20Boleh%21%20%40%20HarbourFront%20Centre&query_place_id=ChIJ0SoxTmsb2jER0_XGkvz7EAE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Faber%20Point&query_place_id=ChIJB9KO694b2jERmN1qxR25KMQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7th%20Mile%20Coffee%20Shop&query_place_id=ChIJhUNSNmIQ2jERkJMlzfgNlBk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Meidi-Ya%20Supermarket&query_place_id=ChIJkcJD6h4Z2jER1jILu0ewCI8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=LE%20WHITE%20BAR&query_place_id=ChIJZ4JqKmgb2jEROuOzh5z42no"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20SC%20VivoCity%20-%20Bowling%2C%20Arcades%20and%20Parties&query_place_id=ChIJAybKOeIb2jERoUnFWK9Bn30"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Teban%20Market%20Place&query_place_id=ChIJj_R4uqUa2jER5f3xsgsfE7k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20%40%20Plaza%20Singapura&query_place_id=ChIJMW3cfr0Z2jER9ALB17fDCoY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=TUFF%20CLUB%20%40%20Oxley%20Tower&query_place_id=ChIJze2xOlUZ2jER-XUhcWvNhwA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lum%20Clinic%20%26%20Surgery&query_place_id=ChIJSyRda2EZ2jERpHfLdC0y_sE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Keppel%20Discovery%20Wetlands&query_place_id=ChIJk6AAIRka2jER57Q4S7wOdrA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheng%20Siong%20Supermarket&query_place_id=ChIJm03XszAY2jERgzoldDmXeqw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ji%20Yue%20Coffee%20%28%E9%9B%86%E6%9C%88%E5%92%96%E5%95%A1%29&query_place_id=ChIJ6ZDJk0wb2jERHSnzBByKHKc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chye%20Seng%20Huat%20Hardware&query_place_id=ChIJDVvGO8kZ2jERoThpnZ1p97s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Zenith%20Automotive%20Services&query_place_id=ChIJ3dWB98sb2jERf2yRlvBR_94"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Redhill%20Food%20Centre&query_place_id=ChIJkalS-tQb2jERyBBUWbQg3eg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Sekawan&query_place_id=ChIJw-Nx8yiK2TERta97QExgq2c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MY%20Clinic&query_place_id=ChIJ362im4gQ2jER1B4Ha1C38fQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Italian%20Coffee%20Lab%20Singapore&query_place_id=ChIJ873LtKgb2jERj6XcmvT6Ki4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=UDON%20DON%20BAR&query_place_id=ChIJV3P-dqsb2jERcA1t9E1fPps"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Minmed%20Clinic%20%28Redhill%29&query_place_id=ChIJg_f97o0b2jERelIaQT5MYUQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CompAsia%20Singapore&query_place_id=ChIJuXX0QdEb2jERszBT2Jh2Lcs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=b88%20hostel&query_place_id=ChIJabo6HrgZ2jERgeaa595PBgM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food-Joy%20Pte%20Ltd&query_place_id=ChIJF8tv_a8b2jERkXS_yrjV5J8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=AutoSprint&query_place_id=ChIJDffeDHEb2jERf6rJOR-Uo1g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Blind%20Massage%20Services&query_place_id=ChIJAQAAAOMW2jER8ZAthO0gZ_g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=COURTS%20Orchard&query_place_id=ChIJpaxNN5EZ2jERWHr9KOpIw0c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=United%20Pawnshop%20-%20Bukit%20Batok%20Branch&query_place_id=ChIJz97WRTYQ2jEROWb1LhTEBEU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Harbour%20Ville%20Hotel&query_place_id=ChIJPQSb1mYZ2jERPDZUusvjB8c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MEIDI-YA%20Supermarket%20Great%20World&query_place_id=ChIJT9dKN_IZ2jER_JvlIhM97rk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Quay%20Hotel%20West%20Coast&query_place_id=ChIJKdkEMfwa2jERh6bmZuL0Hpo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Angels%20South%20Indian%20Club&query_place_id=ChIJPd97Qe0R2jERU-tTTPdeIc0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJd7L66kIa2jERSnenl2ZXsPs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Paco%20FunWorld%20-%20KWM&query_place_id=ChIJTXwR_0kZ2jERMLEMjiB5CsU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=NTUC%20FairPrice&query_place_id=ChIJiZI9ky0a2jERkfpCgUqARNE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Food%20Centre&query_place_id=ChIJpRA-1rsZ2jERXHZfZZrxWUA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Central%2024-Hr%20Clinic%20%28Clementi%29%20-%20CHAS%20%7C%20GP%20Clinic%20%7C%2024%20%E5%B0%8F%E6%97%B6%20%E8%AF%8A%E6%89%80&query_place_id=ChIJLRgm1I0a2jER056txf2zC6o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20100AM&query_place_id=ChIJg7--XWsZ2jERFMp9MlsDiOY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Bukit%20Batok%20East%20%29&query_place_id=ChIJn9vnXbcR2jERTUW3JA_sjfU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fragrance%20Hotel%20-%20Rose&query_place_id=ChIJF7lGewAZ2jEROIRu3wVPHpQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Coast%20Park&query_place_id=ChIJQ8uk4vwa2jERqMrT6OFBMuw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJv8e9s6Yb2jER8KKLWUl5vMo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20Scotts%20Square&query_place_id=ChIJmb2-YY0Z2jERUxx5nU1r6F4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FUTURA%20BOUTIQUE%20HOSTEL&query_place_id=ChIJk7SxcgAZ2jER5NMvpIuLhvE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Garage%20B%20Pte%20Ltd&query_place_id=ChIJzcGhi24Q2jERvf5r_B7tOGI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Clementi%20448%20Market%20%26%20Food%20Centre&query_place_id=ChIJD8PLCI4a2jERgSR2V_uOcBs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiong%20Bahru%20Market&query_place_id=ChIJOU6y-HkZ2jERchOICIgjl0E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=JP%20Mobile&query_place_id=ChIJ7dIHrw0j2jERmGIGxAbd7bE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJFbi1ci8b2jERGK3pz79gxbw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Caltex%20Havoline%20autoPro%20Car%20Workshop%20Bukit%20Merah%20by%20Motoserv&query_place_id=ChIJCYNUJ44b2jERSp94MPJWmh4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Slingshot%20Singapore&query_place_id=ChIJn8Zw8s4Z2jERDHzhRsKv3sM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Jalan%20Bukit%20Merah&query_place_id=ChIJJ6DvmM0b2jER87vC7wymjxA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20%28People%27s%20Park%20Centre%20Branch%29&query_place_id=ChIJeVDvo6AZ2jERSI74EJXvbNg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Samsung%20Electronics&query_place_id=ChIJU5w0UL8b2jER4jpAF-P7-JU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Images%20of%20Singapore&query_place_id=ChIJea1DBf8b2jERedMZYR9YXBI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Orchard%20Grand%20Court&query_place_id=ChIJ-RepEJoZ2jER4WLO94msolk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=RedDoorz%20Plus%20Near%20Gold%20Coast%20Ferry%20Terminal%20Batam&query_place_id=ChIJj4RdQ5qJ2TERxtPVnY0nYO4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Holland%20Bar%20L%27Operetta&query_place_id=ChIJoxMEQJUb2jERY4MMov4rF4A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20The%20Food&query_place_id=ChIJFTDLNAAb2jER9hM3BO7_Ydc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Supermarket&query_place_id=ChIJLxj6RnsX2jERiMeQ8Ld3Bdc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Photizohand&query_place_id=ChIJ0Vk7PboZ2jER6y2obCxc_9o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Challenger%20%28ION%20Orchard%29&query_place_id=ChIJqeeD3v8Z2jERw1FpKUHHA5g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Jurong%20Point&query_place_id=ChIJUxHNgkoP2jERF4MJFCx1iZA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Drip%20Singapore&query_place_id=ChIJnT3wdzoZ2jERwLnZ8bIBqsg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Advantage%20Medical%20Clinic%2C%20Bukit%20Timah%20%28Guthrie%20House%29%20%7C%20GP%20Clinic%2C%20Medical%20Centre%2C%20XRay%2C%20Health%20Screening&query_place_id=ChIJGUO1O-4R2jER6OOeCagoULE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Lucky%20Plaza%20%2301-65/66&query_place_id=ChIJJbXTCmUZ2jERNh-D0MkkzhY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJaRmmKb4V2jEROp952OZPIwU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bukit%20Panjang%20Hawker%20Centre%20%26%20Market&query_place_id=ChIJc0LVIKcR2jERFB8jEvb4t7g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=LT31&query_place_id=ChIJ0xoOL1ca2jERs3Li2JZozaY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJuSB6bpMb2jERTsQll7aN_1Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sampan%20Ride&query_place_id=ChIJzzty9zAZ2jERqi-HsN6_pro"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Market%20Street%20Hawker%20Centre&query_place_id=ChIJJ4ldDwwZ2jER36nRVAyIXc8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Spacepod&query_place_id=ChIJ_-A6FjQY2jERnvzDEXW7hlM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Car%20Auto%20Workshop%20Singapore%20%7C%20Carworkshop.com.sg&query_place_id=ChIJZRGKivYX2jERu4SeF-Z6-W0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sing%20My%20Song%20Family%20Karaoke&query_place_id=ChIJyaUFhJkP2jERRHTBJQyA2L4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Car%20Body%20Repair&query_place_id=ChIJSbNLPcwb2jERdknJ2kFp1pY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=iStudio%20One%20Holland%20Village&query_place_id=ChIJL7JLXSQb2jER8xECzMLcaLM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=King%20Edward%20VII%20Hall&query_place_id=ChIJRdd4d1Qa2jER8Jm2S_sC99o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Merlin%20Motor%20%26%20Engineering%20Works&query_place_id=ChIJ_cbOsFgW2jER9GL91QCOAcc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bubble%20Bar&query_place_id=ChIJtQc9mfAb2jERv4ONfClAHVs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Supermarket%20%40%20Aperia%20Mall&query_place_id=ChIJT8tGlrMZ2jERayt-D2HOn_g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Butternut%20Tree%20Hotel&query_place_id=ChIJoyVoLcgZ2jERApQWfKAj0OE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJd5FW41Eb2jERLIeIRRf-RkE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SPOT%20ON%2091343%20Kartika%20Guest%20House%20SyariahNearPantai%20Stres&query_place_id=ChIJq6ouCyeK2TERTpsKjYMh1sM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxi-Cash%20%28Paya%20Lebar%20MRT%29&query_place_id=ChIJbc-uQBgY2jERa-IfeUh6R_A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Khazana2%20Bollywood%20-%20Indian%20Music%20Club&query_place_id=ChIJy9JaY8gZ2jERDBLn2c5zz40"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Double%20Shot%20Coffee%20Kampong%20Bahru&query_place_id=ChIJ_4H-gZgZ2jER3XOKPi-dka4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Dow%20Corning%20%28Singapore%29%20Pte%20Ltd&query_place_id=ChIJCQyed08a2jERrR0m65zaB2Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Li%20Hong%20Auto%20Services%20Pte%20Ltd&query_place_id=ChIJB9AdiW4Q2jERg2YhzktXFAU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Tekka%20Centre%20Branch%29&query_place_id=ChIJg0kFz7gZ2jERWk5iOAYc8dw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Redhill&query_place_id=ChIJmyQQ29Qb2jERh46KG1vTaG0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Singapore%20Buddhist%20Free%20Clinic%20%28Dover%29&query_place_id=ChIJfYSGnF0a2jERnapx7t85SDQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20Bukit%20Timah%20Plaza&query_place_id=ChIJq93BHIkQ2jEReDU1CrhkeOg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=TOOTH%20ANGELS%20Coronation%20Arcade&query_place_id=ChIJpcodKAYa2jER3_2V6eGzaFU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SPOT%20ON%2092323%20Ririn%20Homestay&query_place_id=ChIJEQlJuwKJ2TERaC_N__gSRQE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20NUH%20Medical%20Centre&query_place_id=ChIJXyswLlIa2jERVpwfbvFsu0o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lau%20Pa%20Sat&query_place_id=ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Dynasty%20Nightclub&query_place_id=ChIJ7cnEQAAZ2jERhNDuAjJ6J3E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MONGGO%20MOTIONS&query_place_id=ChIJJyMASOsa2jERw2oQtyO0Rz4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FM%20FoodMaster&query_place_id=ChIJN2WBTcoZ2jER56ZqrxTEK8s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Shenton%20Medical%20Clinic%2C%20Toh%20Yi&query_place_id=ChIJ49zBAL8R2jERIaUryTY7qJU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Dover%20Medical%20Centre&query_place_id=ChIJcQ8uKk4a2jERQQUZTPCkBPQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJD7BdsFMa2jERWEnSy9Ema4M"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers&query_place_id=ChIJSRhmjWYb2jERneBm9bQ8n98"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=TWNC%20-%20There%20Was%20No%20Coffee&query_place_id=ChIJf0AfEIUZ2jERlF1tkmQsZ3E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FLNT%20%7C%20Nikkei%20Restaurant%20%26%20Bar&query_place_id=ChIJKbuqO78Z2jERVOBr1n--EIo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=LYK%20Mobile%20Repair%20-%20Bugis&query_place_id=ChIJdTEZQ5AZ2jERFiZuFrWI-OY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Minimart&query_place_id=ChIJZT-3Elwa2jERDGXgSkPxDmk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fate%20by%20HaveFun%20%28Cineleisure%29&query_place_id=ChIJt4Ek7RgZ2jERCZ0jXdR0b98"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Massage&query_place_id=ChIJt1ky02sR2jERawkQZ10_RTg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cowpresso%20Coffee%20Roasters%20Singapore&query_place_id=ChIJ6VzXLGEQ2jERXwVlpVrULtM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kingdom%20Spa&query_place_id=ChIJa5mAx9gR2jERKY7_7I7UsiQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Long%20Bar&query_place_id=ChIJr3wRuKUZ2jER6s2v4lk2y8o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Coffee%20Tea%20Library&query_place_id=ChIJG1Wj9vwb2jERLzpX0x2wIac"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Bugis%20Village%20Branch%29&query_place_id=ChIJy_65XeoZ2jERdOIi_5_60eo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Spa%20Bonito&query_place_id=ChIJRdPm6wcb2jERa9ANLiXwrFg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Top%20Cash%20%2899%20Serangoon%20Road%29&query_place_id=ChIJ1c1S4-IZ2jER0Yc8X2z1Wpc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Code%20Hostel%20%28Lavender%29&query_place_id=ChIJC5rD0gMZ2jERuiZHC84alxw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Soon%20Hin%20Pawn%20Shop&query_place_id=ChIJQR7Ly9Yb2jER3wZ4BkjD3aA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chang%20Cheng%20Mee%20Wah%20Coffeeshop&query_place_id=ChIJH3Fr7UEa2jERuwMcr9cFUvw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Kovan%20Central&query_place_id=ChIJ93CRuaAX2jER02T0RSvl5VM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Xpress&query_place_id=ChIJv2fWmo4b2jERsQb4FgthinA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Shenton%20Medical%20Clinic%2C%20Alexandra%20Retail%20Centre&query_place_id=ChIJV6mRRMcb2jERweawc3GgSYs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Snooze%20Inn%20%40Dunlop%20Street&query_place_id=ChIJjVRspLkZ2jER3lcJ6RxaEGo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Jimmy%20Monkey%20Cafe%20%26%20Bar&query_place_id=ChIJtazRWUQa2jER_pD2DqGY0WI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Jumbo%20Coffee%20Hub&query_place_id=ChIJAQDAcV0a2jERmb2kRQ0ma-Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=North%20Bridge%20Road%20Market%20%26%20Food%20Centre&query_place_id=ChIJh7edNbQZ2jERhLnBwVRjQ20"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ark%20Hostel&query_place_id=ChIJ7U0oJTQY2jERMhfSAkMoGPk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Zheng%20Hua&query_place_id=ChIJg2993MER2jERrU_IOVmIEFk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Warehouse%20Lobby%20Bar%20%28Robertson%20Quay%29&query_place_id=ChIJt23mLZIZ2jER4qHQF2x2Qt0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%28Lucky%20Chinatown%29&query_place_id=ChIJIYK2Ov4Z2jER1UtAKWMNW4o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Senja%20Hawker%20Centre&query_place_id=ChIJLyVUnQ8R2jERUApgCyTj3Pg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Zion%20Riverside%20Food%20Centre&query_place_id=ChIJ_c6vFoMZ2jERBWATXfBQ7Aw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tangs%20Market&query_place_id=ChIJ18y5h40Z2jERNn8g_8HsFss"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=K.STAR%20%40%20Orchard%20Central&query_place_id=ChIJ-yNiYJYZ2jERrxTjnD0gcXA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=KINKY%20KETO&query_place_id=ChIJ2259624b2jERb0TAacKCsxw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Bishan%20MRT&query_place_id=ChIJD7U5jxYX2jERpiPdGCpyh9U"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Round%201%20Karaoke%20Pub&query_place_id=ChIJm_HCg6MZ2jERfM7MjjZx9kM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bendemeer%20Market%20%26%20Food%20Centre&query_place_id=ChIJUQ7wM9IZ2jERaks089nXQoA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%26%20Outdoor%20Beer%20Garden%20%28SAFRA%20Yishun%29&query_place_id=ChIJE7zoZmUV2jERwmRt8K67XFw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=1918%20Heritage%20Bar%20at%20The%20Alkaff%20Mansion&query_place_id=ChIJz34btVQb2jEREuA6ZVF5V9s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJDU8i1GgZ2jER82sG6EfXNGM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ZEN%20Hostel%20Farrer%20Park&query_place_id=ChIJx0MK9sgZ2jER5BfgyDgPEzI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bukit%20Timah%20Wet%20Market%20%26%20Food%20Centre%20%28Interim%29&query_place_id=ChIJwQ8GHooQ2jER5Ucy4Sx80Wk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Naughty%20Girl%20Club&query_place_id=ChIJ3Tcl0IwZ2jER-6sRAMs1IDY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJOx9HMLAb2jERtgjYW9s9ipQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Headquarters&query_place_id=ChIJoWKtPwoZ2jER__mKz1Jfu3I"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Atelier%20Lounge%20%26%20Bar&query_place_id=ChIJ1Vo8XD4Z2jERHBQoOeSXUT8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CLUB%20AMAIRO%20%E3%82%AF%E3%83%A9%E3%83%96%20%E3%82%A2%E3%83%9E%E3%82%A4%E3%83%AD&query_place_id=ChIJI5TwacwZ2jERcvSBBn0Aow4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Gain%20City%20%28Marina%20Square%29&query_place_id=ChIJAQDAaw4Z2jERuYAeI5n3iEc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ISA%20Hotel%20%26%20Apartment%20Hotel&query_place_id=ChIJjXems6cZ2jERep-fc4y_1qA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers&query_place_id=ChIJpap_yTQZ2jERVMI0No2aKnc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Rain%20Oculus%20-%20Marina%20Bay%20Sands&query_place_id=ChIJm-ndSUQZ2jERNcnNSAeOk4I"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Central%20Square%20Canteen&query_place_id=ChIJ6b8PEPga2jEROvB27FERork"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=BEAT.%20Capsule%20Hostel%20%40%20Boat%20Quay&query_place_id=ChIJ8fCGNgoZ2jERSpwfNFcN85Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Brotzeit%20German%20Beer%20Bar%20and%20Restaurant%20-%20WestGate&query_place_id=ChIJHQALBw8Q2jERTRbxK3smjw0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Causeway%20Point%20-%20Arcade%20Games%2C%20Prizes%2C%20Claw%20Games&query_place_id=ChIJJ2dCl6gT2jERC9Vad2W9Qsg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Kim%20Tian&query_place_id=ChIJGzZxZHkZ2jERJjJvvBNvVtQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Baden%20Restaurant%20%26%20Pub&query_place_id=ChIJJdZUkWsa2jERge1hfzMuvAY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Holland%20Village%20Market%20%26%20Food%20Centre&query_place_id=ChIJGc8TpWsa2jERSFrowt5WsTA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=505%20Jurong%20West%20Market%20%26%20Food%20Centre&query_place_id=ChIJo6zVvtwP2jERyf2Nuhm97cM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJ40yfrzca2jERRZ5gaBEbpsU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cosmo%20Massage%20%26%20Reflexology%20%28Precious%20Foot%29%20-%20Massage%20%7C%20Tui%20na%20%7C%20Foot%20Massage%20%7C%20Gua%20Sha%20-%20Toa%20Payoh&query_place_id=ChIJlxdpUWYX2jERvbTfFb1_U6g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Quick%20Lane%20SG%20Car%20Care%2C%20Parts%20%26%20Accessories&query_place_id=ChIJjdwG1TIa2jERXltJ_4ply6g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kim%20San%20Leng%20Coffeeshop&query_place_id=ChIJLWOQB9Yb2jERr8NnnRS9MnA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Siloso&query_place_id=ChIJWbbHWvAb2jERpIJ56UdMj_E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chao%20K%20Party%20-%20Bugis&query_place_id=ChIJKwPqY2wZ2jERRWFgClhl70Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Koufu%20%28SP%20Food%20Court%201%29&query_place_id=ChIJkTga80Ub2jERswFe-PJ5jas"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SuuKee%20Coffee%20%28One%20North%29&query_place_id=ChIJk2-rxV8b2jERqvRc2Rcqufc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJVzlN764Z2jER2K54JYlh31s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers&query_place_id=ChIJB0ZTfoEb2jERuUd-WMlKRvI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Globalink%20Electronics&query_place_id=ChIJFRMz2tcb2jER0OtspDzD5YQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=OFUN%20KIKO%20Arcade.&query_place_id=ChIJ6bpqJb0Z2jERXNhwDpRmKaM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Spacepod%40lavender&query_place_id=ChIJnf5leckZ2jER7oMcGJxqq7o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Holland%20Drive%20Market%20%26%20Food%20Centre&query_place_id=ChIJ7SUpBGoa2jER31LgG0EuOmk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chong%20Lee%20Pawnshop%20Pte.%20Ltd.&query_place_id=ChIJ4YXYWTwQ2jER4rEOEWIX8i8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Arcade&query_place_id=ChIJcV-kxw4Z2jERaGtjjCZCAzw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=VIP%20Japanese%20Karaoke%20%26%20Lounge&query_place_id=ChIJicb9NlsZ2jERFGuB-H0NcX8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Margaret%20Drive%20Hawker%20Centre&query_place_id=ChIJzyyRZWUb2jERYQW51dRsmjc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Arch%20Overhead%20Bridge&query_place_id=ChIJAefLnsgb2jERinVk6TTmjs8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Yap%20Seng%20Motor%20Service%20%26%20Trading&query_place_id=ChIJpbuRL2wQ2jERCENXu2B86Hc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Martini%20Bar&query_place_id=ChIJ2WabYo0Z2jERa6chKb3klj4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Intermezzo&query_place_id=ChIJqxafs4wZ2jER1A9Sr45PS9Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MahaCo%20Dosa%20Bar&query_place_id=ChIJhyK1FAkb2jEResQ06oGfNwo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bluewaters%20Pods%2011%20North%20Canal%20Road&query_place_id=ChIJxwBcpjwZ2jER9xPcZktY5DY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Ang%20Mo%20Kio%20Avenue%201%20Branch%29&query_place_id=ChIJg_4WleEW2jERniyVCELqrQA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sin%20Kang%20TCM%20Clinic%20-%20The%20Star%20Vista&query_place_id=ChIJo6RfBMUb2jER9O629iUgHsE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheng%20Hua%20S%20Mart&query_place_id=ChIJJT7fuT8a2jER1eZa0SlA1Xg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7th%20Heaven%20KTV%20and%20Cafe&query_place_id=ChIJIxQAIT492jERlnER3zYwbnU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Waterloo%20Centre%20Main%20Branch%29&query_place_id=ChIJicgNsKQZ2jER8OCl2gdeZKo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hive%20Singapore%20Hostel&query_place_id=ChIJwUZKyM8Z2jERxHcfGkuJ2EQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20Great%20World&query_place_id=ChIJu3mTX4MZ2jERLCptOU3zEXQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kang%20Zu%20Tang%20Therapy%20%E5%BA%B7%E8%B6%B3%E5%A0%82&query_place_id=ChIJKQNcP8Mb2jEROFWDOIopKLc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Frontier%20Family%20Medicine%20Clinic%20%28Clementi%29&query_place_id=ChIJ5dl5QI4a2jERL1m3EVwmN0w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Get%20Some%20%7C%20Craft%20Beers&query_place_id=ChIJYZ3qqZ8b2jER456-75ycqgw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=THE%20CHEVRONS%20Aviary%20KTV&query_place_id=ChIJU_g6dwAR2jERmp2oiNeOoJM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Denki&query_place_id=ChIJ9as4dA4Q2jERMkftPNuNGqg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20Deluxe%20%7C%20KTV%20Night%20Club%20%7C%20Thai%20Disco%20%7C%20Opens%20Till%203%20AM&query_place_id=ChIJme728pYZ2jERx1J3Dtt_Pew"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Big%20Coffee%20Roasters&query_place_id=ChIJYWEEl0Ya2jERSazPjSyLxe4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Rail%20Corridor%20%28Bukit%20Timah%29&query_place_id=ChIJZ7szL4IQ2jEROtrhM5Cj2as"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Challenger%20%28IMM%29&query_place_id=ChIJT8cN2w0Q2jERt0_KDn5dUig"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Marine%20Mammal%20Habitat&query_place_id=ChIJ67gmMy0b2jER9GRqEN_B9nQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Denki%20Clementi%20Mall&query_place_id=ChIJSzJ4r6AZ2jERJLZgpAC08uY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Checkers%20Hostel&query_place_id=ChIJI4x0wxwZ2jERdifDCsW2TVE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=White%20Horse%20Singapore&query_place_id=ChIJIw6xn88Z2jER9vEd0wBA4oI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Clementi%20Family%20%26%20Aesthetic%20Clinic&query_place_id=ChIJ3fKsDY4a2jERnNRi4NTsuFQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%82%A6%E8%8F%AF%E9%A3%9F%E9%96%A3%20Yue%20Hua%20Food%20Court&query_place_id=ChIJX7orI9Ab2jERf7BWYrE5gyY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Esmond%20Service%20Centre%20-%20Alexandra&query_place_id=ChIJYfcDtaEb2jERWenN9vwMeeY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Fresh&query_place_id=ChIJUZUjaBcb2jER7cWmR3lOeyU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bollywood%20Beats&query_place_id=ChIJVY4a3REZ2jERgJ0pjHl2y7g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Choa%20Chu%20Kang%20Centre%20Branch%29&query_place_id=ChIJYeNnp7YR2jERytSkCe4cON4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Orchard%20Xchange&query_place_id=ChIJG3a-rdUR2jERbfcqzesQgO8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheng%20Siong%20Supermarket&query_place_id=ChIJgyzxhIwa2jER7b7r_1rt5s0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Singapura%20Mobile%20Repair%20%28MP%29%20Apple%20iPhone%20Watch%20iPad%20Macbook%20Samsung%20OPPO%20Huawei%20Pixel%20VIVO%20Rog%20OnePlus%20Surface%20Pro%20Repair&query_place_id=ChIJDZkf7CgZ2jERzk_Gpubjsxo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ice%20Karaoke%20Pub&query_place_id=ChIJ7X4O5q4X2jERBOps3kbtwg4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Accord%20Auto%20Services%20Pte%20Ltd&query_place_id=ChIJ4eltCMwb2jERbEbipz5Z3-U"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20MB%20Auto%20Workshop&query_place_id=ChIJQfH6vFgW2jERBQDJnMxb_ts"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Eng%20Seng%20Motor&query_place_id=ChIJlZxB95Qa2jERJrvs8DNYAhA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Woodlands%20Domestic&query_place_id=ChIJryINdfIa2jERYr8Qz2tya4o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ninja%20Arcade&query_place_id=ChIJO0lT6o4b2jERAV4b2dHiVLA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Affordable%20Phone%20Repair%20Battery%20Replacement%20Bukit%20Panjang%20BFN&query_place_id=ChIJF4TxlW0R2jERo-7aL4apU4Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ang%20Mo%20Kio%20714%20Karaoke%20Lounge&query_place_id=ChIJ1zjpIegW2jERAce2AU8uqb4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20More%20%40%20438C%20Alexandra&query_place_id=ChIJ22DowZQb2jERJourg2UJhc0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Evergreen%20Global%20Minimart&query_place_id=ChIJEcNdZDsb2jERw5339leFdkk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Giant%20Express&query_place_id=ChIJUfjIWGga2jERRf0pCDHHK3E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fragrance%20Hotel%20-%20Ocean%20View&query_place_id=ChIJs60pLPwa2jER4Tlwz5d956o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Xpress&query_place_id=ChIJ912LHgAb2jER0j4tLn2Ixfk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Room%20%40%20Bugis&query_place_id=ChIJH4ejSu0Z2jERv9AUB0aGMdw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunman%20Food%20Centre&query_place_id=ChIJjRWaiBIY2jERQo7nWhaLkbE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Riverview%20Auto%20Services%20Pte%20Ltd&query_place_id=ChIJQfH6vFgW2jER_0RBWxiBSqg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ST%20Signature%20Tanjong%20Pagar&query_place_id=ChIJh5q4SW0Z2jERaMR6KoLJsBA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Alchemist%20The%20Mill&query_place_id=ChIJVdCmxpgb2jERFao4qFxsSIU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chupitos&query_place_id=ChIJjWudPaAZ2jERdvNZh4ph1JQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Soul%20Spa&query_place_id=ChIJWeo95UEa2jERT5cjynu_EW4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Retreat%20Spa&query_place_id=ChIJ_4vB9d8Z2jERves2fV1a5FU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cash%20Studio%20Clarke%20Quay%20Central&query_place_id=ChIJUR0IeeEZ2jERz4fzADBP_DE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20Zhong%20Shan%20Park&query_place_id=ChIJP5eoI2AX2jERvlTa2GR_bOY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Char-Grill%20Bar%20Holland%20Village&query_place_id=ChIJ0apfTWoa2jERV-q3Lol8onU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Amrise%20Hotel&query_place_id=ChIJWdLw7TAY2jERXBXiRLDjIgQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20Slim&query_place_id=ChIJwzVqoQQZ2jERX2W_zOhLgYA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Oldies%20karaoke%20lounge&query_place_id=ChIJXaUNgU4V2jERuWiEQnrQZmM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Clinic%20Group%20%40%20Fusionopolis&query_place_id=ChIJjwj2WkUa2jERNoD1sSqdJQ8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lite%20Mobile%20%40%20Jurong%20Gateway&query_place_id=ChIJCzjjRe8R2jERt_miDGAH4RE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Boat%20Quay&query_place_id=ChIJc0OGMwoZ2jERDKgZE1sdjrA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Squad%20Workshop&query_place_id=ChIJS1xLZUZ2uokRk7odmw3u6KQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Common%20Man%20Coffee%20Roasters%20-%20Martin%20Road&query_place_id=ChIJT3fdLZwZ2jERJx-QGgPAoac"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ginger.Lily&query_place_id=ChIJ_4PNqaUZ2jER4ClLlg1c4Pk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20India%20Arcade&query_place_id=ChIJh1P4ybgZ2jERs1cDC4eUvFg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=TLS%20Auto&query_place_id=ChIJj0yTvRsb2jERJLe6oD_WxEM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cash%20Studio%20Karaoke%20Cuppage&query_place_id=ChIJ6fc465YZ2jERFcdhA9sG4rI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=GJ%20Tech%20Private%20Limited&query_place_id=ChIJ2VKNTsAZ2jERKrJaYvxB2wM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Phuture&query_place_id=ChIJAQAAAJ0Z2jER_FmknB2lGms"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%28Serangoon%20Central%20Branch%29&query_place_id=ChIJVVVVFaYX2jERCwabWpI-rk8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Backpacker%20Hostel&query_place_id=ChIJ8V4tsWUZ2jERGnIyqS8Uhic"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Melodies%20Pub%20%26%20Karaoke&query_place_id=ChIJ8-fugFQR2jER4E8t8Oabbec"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20City%20Square%20Mall&query_place_id=ChIJVcXun8gZ2jER90s2kBbgN3E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJPZWiEmEZ2jERNyYUNq601l0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJcz3gAEoP2jERHcsnHihWSC8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Koufu&query_place_id=ChIJ84Hw-y0a2jERVChxpGfcLsA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Snooze%20Hotel%20%40Bugis&query_place_id=ChIJvafF-q8Z2jERSBUIn4y_BdQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=RSG%20Wellness%20Spa&query_place_id=ChIJa1LZ4G0R2jERHhZqiURBekM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Queenstown%20Polyclinic&query_place_id=ChIJXbRXBToa2jERH8dVy5KpwXs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Luss%20Restaurant%20%26%20Bar&query_place_id=ChIJA17IiV4X2jERbNjg85Wi4NU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Spacepod%40hive&query_place_id=ChIJp_rVQSkZ2jERlF_mE85Rxk0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=International%20Medical%20Clinic%20-%20Holland%20Village&query_place_id=ChIJubnAs3oa2jERGUaFYRwy1iI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20The%20Star%20Vista&query_place_id=ChIJp0JVlEIa2jER9lM6m1VP3S0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20Sparks%20Singapore&query_place_id=ChIJve8xXEoZ2jER8TjbdS98D-c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SkyPark%20Observation%20Deck&query_place_id=ChIJOeEf9S2vewIRM0B9a06CKwg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=OSS%20Backpackers%20Hostel%20%40%20Lavender&query_place_id=ChIJR0uIuPwZ2jERRaDtHjfxluw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Albatross%20-%20Luxury%20Tall%20Ship&query_place_id=ChIJi454DP0b2jERDzqAZnYncek"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Whampoa%20Food%20Centre&query_place_id=ChIJwdRlwNkZ2jER5VFwn2Iks3c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%28Suntec%20City%29&query_place_id=ChIJoQqcdp4Z2jER-5GYPak69wI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Al%20Capone%E2%80%99s&query_place_id=ChIJkdFHZ_Eb2jERktp5ceeQf4I"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Pelita%20Terang&query_place_id=ChIJJSHYz5yJ2TERW5jfeSm3iyo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Wai%20Leong%20Car%20Care%20Centre&query_place_id=ChIJ_fgonM4b2jERW2GFzICKhWQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Marina%20Bay%20Overpass%20Viewing%20Point&query_place_id=ChIJj29qegQZ2jER-gIhO5Kq3Ns"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Green%20Kiwi%20Backpacker%20Hostel&query_place_id=ChIJ2xdC8c4Z2jER8Vwta5bGQKk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%28Ang%20Mo%20Kio%20Central%20Branch%29&query_place_id=ChIJ-8bQGOcW2jERdsX_dBoI6gM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Denki%20Great%20World&query_place_id=ChIJu3mTX4MZ2jERQI-uY_dNhm4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Wala%20Wala%20Cafe%20Bar&query_place_id=ChIJTXWMlWsa2jERCLUkF98yzD0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=60%27s%20Hostel&query_place_id=ChIJM_N3u88Z2jERtgy_XF9OomM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Pancur%20Larangan&query_place_id=ChIJ_b6nTlIZ2jERk2yCZsyN0io"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Palace%20Therapy%20Spa%20Massage&query_place_id=ChIJg1wu6AwZ2jER2PsDLFf5kdU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Jurong%20East%20MRT%20Station&query_place_id=ChIJmZlIv5MR2jERcg1DbJxUFXQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiong%20Hoe%20Specialty%20Coffee%20at%20Super%20Simple&query_place_id=ChIJqR45nyob2jERV-mXCRNYmoI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%28313%40Somerset%29&query_place_id=ChIJQQMjJpEZ2jERes0N1ct7yFY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20Casa%20Singapore&query_place_id=ChIJj5PSrvcZ2jER5xOW86_lm0c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheng%20Siong%20Supermarket&query_place_id=ChIJdx6jPG4X2jERdZJA35IqLUM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Shelford%20Tree&query_place_id=ChIJg7z9zpoR2jERbTVdk9OZ9Uk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SP%20-%20Foodcourt%205%2C%20Swimming%20Pool%20and%20Gym&query_place_id=ChIJBfv6PmAa2jERNwMSBr61hoE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Bukit%20Gombak%20Branch%29&query_place_id=ChIJc6DkFTYQ2jERt9WAqgMn4cY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Brotzeit%20German%20Beer%20Bar%20and%20Restaurant%20-%20VivoCity&query_place_id=ChIJQ7ONulgZ2jERMHtVg8e4VHg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Flavours%20%40%20UTown&query_place_id=ChIJl9xwzPUa2jER6-9rZ50tOXs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Jurong%20Point&query_place_id=ChIJa-Cbx-wP2jER57y_Cz9qfWs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJtZHRNyo92jER5_nkMrZ06QE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Castle%20KTV%20Karaoke%20Lounge&query_place_id=ChIJFW2vxjsY2jERw9Ks-QtEATs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Signature%20Restaurant%20%26%20Bar%20-%20Best%20Briyani%20and%20Grill%20chicken&query_place_id=ChIJKVSNn4sR2jERjznHMmMyMAQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=gadgetbox&query_place_id=ChIJz3Vy2Xwb2jERA1u0Y2j9Q6Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Clinic%20Group%20%40%20Business%20City&query_place_id=ChIJ0xjKRscb2jERRbY1LU1JbkY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Our%20Tampines%20Hub%20-%20Dance%2C%20Racing%2C%20Video%20Games&query_place_id=ChIJHZTFYhI92jERzN1eUfUoZfg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Princess%20Karaoke%20Lounge&query_place_id=ChIJf-ehBtUZ2jERDfBF5rh_ouU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Th%C3%A9rapie%20TCM%20Spa%20%7C%20Massage%2C%20Facial%2C%20Scalp&query_place_id=ChIJjzNIvdgZ2jERbThqQWgMpl8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Soon%20Kim%20Motor%20Workshop&query_place_id=ChIJKYWAL_oW2jERGGddsf5gD4E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Seah%20Im%20Food%20Centre&query_place_id=ChIJ3_Lpm-Eb2jERLpMzVFxi_vs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=GLORIS%20HOTEL&query_place_id=ChIJDUZZzCmK2TERM3kZeG_v3P8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Grogu%20Fountain&query_place_id=ChIJg4SXyEUb2jER9dBCIsVpziI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Coffee%20Roaster%20Cafe&query_place_id=ChIJJ1vrQxMZ2jERIWEJYEK-dnM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Seng%20Hong%20Coffee%20Shop&query_place_id=ChIJZQAuOtMb2jERxBTZ6h5DzP4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Koufu%20Food%20Court&query_place_id=ChIJVQK1lvoX2jER2LLaG2y4Esk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20%40%20Cluny%20Court&query_place_id=ChIJ__-_lwYa2jER76Un-laLEOU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Havelock%20Road%20Cooked%20Food%20Centre&query_place_id=ChIJ72xdjXgZ2jERQkQHEiK2QJw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20Gold&query_place_id=ChIJVaxrUIoZ2jER2XUwyAC7Svw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Teban%20Garden%20Clinic&query_place_id=ChIJo8wN5qUa2jERThER79dAgUk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Karaoke%20Lounge&query_place_id=ChIJ7zMPn_8W2jER47jkcvcYbvg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=KOFFEE%20TIME&query_place_id=ChIJ72ONF1wa2jERkdNKGrMMCPU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Mobile%20%28Bishan%29&query_place_id=ChIJw1Tto7EX2jERzJnWh9_L5wE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Plasma%20KTV%20Lounge&query_place_id=ChIJIVQ6l7wZ2jERu1t6ICTyxbY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kebun%20Baru%20Food%20Centre&query_place_id=ChIJy0yixN4W2jER_U6cT_fEgwU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Healthy%20Massage&query_place_id=ChIJ091BMq8b2jERuANiab5ltcY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Gossip%20Bar%3A%20Your%20go-to%20KTV%20/%20Karaoke%20bar%20in%20Singapore&query_place_id=ChIJT6LThbUX2jERbQ-tFCr2go4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20Palace%20KTV%20Karaoke%20Lounge&query_place_id=ChIJJ-eHv7AZ2jERCTv9kVyTCfc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=United%20Pawnshop%20-%20Clementi%20Branch&query_place_id=ChIJFfQRCo4a2jERKYfcbgOVJx4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Noble%20Hotel&query_place_id=ChIJr-uc584Z2jERYQBLFKeSk9Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lay%20Auto%20Garage%20Pte%20Ltd&query_place_id=ChIJKV9t9OUR2jERYbEa2aWerW8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Advance%20Mobile%20Phone%20Repairing%20Institute%20Singapore&query_place_id=ChIJCyK1J68H2jERSkLU0j79jqM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ubreakifix%20white%20sands%20handphone%20%26%20computer%20repairs%20and%20Sim%20card&query_place_id=ChIJa9cX_K892jERmyG4KsodDjI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Local%20Workshop&query_place_id=ChIJW_VvXXUR2jER25gZinHYuqE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Uwin%20Mobile%20-%20Handphone%20Shop%20Singapore%20-%20Buy%2C%20Sell%2C%20Trade-in&query_place_id=ChIJDdMgrjcW2jERyhORCzP-QwI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Jubilee%20Bridge&query_place_id=ChIJg_ETIAgZ2jERsKqRqCqjtb4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=PEN%20%26%20INC%2C%20Cafe%20%26%20Bar%2C%20One-North&query_place_id=ChIJgXWSm6Eb2jERcgJoTUf259E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Heartland%20Rehab%20%40%20Queenstown&query_place_id=ChIJVVUlns0b2jERVG9K2tw7Gzw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FunTan%20Singapore%20KINEX&query_place_id=ChIJpwIDRwAZ2jERR1DX82LLlE4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Batam%20Star%20Hotel&query_place_id=ChIJvxlTt4mJ2TERydVkMzbGYq0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Xpress&query_place_id=ChIJDcaatPUa2jERo6_a-awZ9n8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Acid%20Bar%20%26%20Restaurant&query_place_id=ChIJRZ1c0JYZ2jER3_UBKFcKgXA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Forest%20Discovery%20Centre%20%28Atbara%29&query_place_id=ChIJ4yNzDRoa2jERnj_qax-lg_w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Republic&query_place_id=ChIJT5mnsagZ2jERwyfjmcfnKjc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Carro%20Care%20%28Sin%20Ming%29&query_place_id=ChIJR_XmhGEX2jERBwP7imsUM20"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Haw%20Par%20Villa&query_place_id=ChIJ9ak4I6wb2jERO6x4oAUh_-g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Eleven%20Spa&query_place_id=ChIJz3T5qb0b2jERcKV9keANwmE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cowboy%20Bar%20%26%20Grill&query_place_id=ChIJlctmgeIZ2jERTFTPD0EkerY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=COURTS%20Bukit%20Timah&query_place_id=ChIJBSA3PWAQ2jERYkzNeNj-XbA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Foodini%20-%20The%20Biopolis%20food%20court&query_place_id=ChIJ6Sr3OgAb2jERFNILwBR8Kxs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Deviate%20Wine%20Bar&query_place_id=ChIJSXKUjusb2jER3oDdMSsbsXk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJCdw7DmEa2jERhDy0Md--2dU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fixbot%20-%20Apple%2C%20Android%20%26%20Laptop%20Repair%20Store&query_place_id=ChIJjbcYIMMZ2jERGyERY5BBVaY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ye%20Hao%20KTV%20Club%20%E5%A4%9C%E8%B1%AA&query_place_id=ChIJOzuF6uoZ2jER7SWFkv9dge8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJawGitaUZ2jERu1uqbd6dsOM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Noodle%20House&query_place_id=ChIJWS6oIwYa2jERvx74DxanGmM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CLUB-V%20Bistro%20bar&query_place_id=ChIJ84us4ZcZ2jERVyaYNxa_C8Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJhasZq80b2jER5cVxV0rsE0k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Redwood%20Clinic%20and%20Surgery%20Pte%20Ltd&query_place_id=ChIJMQg0y-ob2jERoS-L3Spmy20"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Samsung%20Service%20Centre%20Westgate&query_place_id=ChIJWZo3qqYR2jERLqCm7lihsH8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20BOILER%20%40%20Buona%20Vista%20%7C%20Best%20Seafood%20Boil%20%7C%20Crabs%20%26%20Lobsters%20%7C&query_place_id=ChIJB88N2Y0X2jERLZx28Uk1rEU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Macritchie%20Treetop%20Walk%20Trailhead&query_place_id=ChIJfYJF_ysX2jERCrIp85u7o1w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hive%40Bugis&query_place_id=ChIJL7NlRFwZ2jER27-DKoduHwc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kopitiam&query_place_id=ChIJIcDZ-LUZ2jERA2q4HIyGIqk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=K%20Palace%20%E5%B7%A8%E4%BA%A8&query_place_id=ChIJ6-TDFiYZ2jER_LIFrRHAC0M"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=21%20Spa&query_place_id=ChIJb14eC7gb2jERe5U6iXQ_ObU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Choices&query_place_id=ChIJw32HEHYZ2jERjwieojXSxqM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Scarlett%20Supermarket%20%40%20Chinatown%20Trengganu%20Street&query_place_id=ChIJObXma_wZ2jERZOHb5VGEtsw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kurasu%20Singapore&query_place_id=ChIJuUak_qQZ2jERgdSigpu0ljc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fook%20Thai%20Pawnshop%20Pte%20Ltd&query_place_id=ChIJNZ7_j2kX2jERUdEs-7_l3Ts"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Deck&query_place_id=ChIJVVVVJfka2jERZRl7AeJV__s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Jyu%20Capsule%20Hotel&query_place_id=ChIJB2hqXWMZ2jERD_GRGW6AOs4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Plaza%20Singapura%20-%20Dance%2C%20Racing%2C%20Arcade%20Games&query_place_id=ChIJZ562iL0Z2jERx2utP2PaA_M"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Soul%20Massage&query_place_id=ChIJbQstVgEX2jERBJoVDXK_vUg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MY%20FAMILY%20CLINIC%20%28CLEMENTI%20325%29&query_place_id=ChIJu4tg_o4a2jERfFn6VV1GAOA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Raffles%27%20Landing%20Site&query_place_id=ChIJQ6QPiwkZ2jERIISQDrknWdU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheng%20Siong%20Supermarket&query_place_id=ChIJIb64K9EZ2jER9PkKyu-_ub8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%28SAFRA%20Toa%20Payoh%29&query_place_id=ChIJNS-w1bIX2jERJ6JdE0WEiiY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CSW%20Hostel%20%28formerly%20known%20as%20Century%20Service%20World%29&query_place_id=ChIJVew_6nIZ2jER8iPK6uPe8ZY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Koufu&query_place_id=ChIJAQ7pY0ca2jERMu8JAxw_OCA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Court%202&query_place_id=ChIJdeO_TGca2jERL8DbSl4eHnU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Wah%20Hong%20Motors%20%26%20Credit%20Pte%20Ltd&query_place_id=ChIJJZJEC20Q2jERqo7dns-kE70"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=H%20M%20Hussain&query_place_id=ChIJRTNBy0Ea2jERlsRKUKEeyuQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Nine%20Days%20Hotel&query_place_id=ChIJ97X_iCOK2TERu-u-dsdnlPY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%25%20Arabica%20Singapore%20313%40Somerset&query_place_id=ChIJOXR0ayQZ2jERi07LL2LzH1Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Marina%20Square%20-%20Arcade%20Games%2C%20Claw%20Games&query_place_id=ChIJU-ISgAAZ2jERhuLGkZgICg0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Alleybar&query_place_id=ChIJU0FezJYZ2jERj7D9TInzaH0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Tanjong%20Pagar%20Plaza&query_place_id=ChIJlYksGEEZ2jERYgEQ9AziskA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Solular%20-%20Mobile%20Phone%20and%20IT%20Services&query_place_id=ChIJ_wzNSw8Q2jERL6qSKvIGOWk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Stirling%20Road&query_place_id=ChIJ1xNTNjEa2jERjByscOiUyEA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Shenton%20Medical%20Clinic%2C%20Clementi%20Central&query_place_id=ChIJ98www40a2jERF4rUIxN1rCo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Real%20Tech%20Mobile%20Service&query_place_id=ChIJPbZt8pUZ2jERXMDaN9VbWdE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=West%20Coast%20Market%20Square&query_place_id=ChIJGVasnbwb2jERCVdaOVAZfis"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8F%91%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%20Sin%20Huat%20Convenience%20Store&query_place_id=ChIJ4-90t3wZ2jERwR3eg-VpVn8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Square&query_place_id=ChIJT3NEg-YZ2jERw0YGsLwpfgI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=RedDoorz%20Hostel%20%40%20Little%20India&query_place_id=ChIJX9uRTscZ2jERURf3-Czoi9Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hitec%20Mobile&query_place_id=ChIJh9vdJK8Z2jERPOmm482az8g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bluewaters%20Female-Only%20Hostel&query_place_id=ChIJDdEzleoZ2jERxJDo1APM0nI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Mobile%20%28Woodlands%29&query_place_id=ChIJdZESb98T2jERGohMKDMHBas"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Court%203%20%28Foodgle%29&query_place_id=ChIJMZpVzkgb2jER9Q9XfcbZYEU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20JEM&query_place_id=ChIJbxY_MEYR2jERLqYos3AFv9A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Seasons%20Marina%20Spa&query_place_id=ChIJL1dD_VkZ2jEREqdd74JhW8w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Margie%20The%20Market%20Bar&query_place_id=ChIJD1p0oEIb2jERMwHmUsX9t9s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=POINT%20S%2C%20Singapore%20-%20BCC%20Automotive%20Pte%20Ltd%20%28Old%20Toh%20Tuck%29&query_place_id=ChIJVX9SnHEQ2jERkA-VmSIxcI0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxi-Cash%20%28Sembawang%20MRT%29&query_place_id=ChIJlxqQQl4T2jERrOSAJR_HOig"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bukit%20Timah%20Nam%20Seng%20Dental%20Surgery%20Pte%20Ltd&query_place_id=ChIJHwZEaooQ2jERNgeNVNPlLjE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=United%20Pawnshop%20-%20Bukit%20Panjang%20Branch&query_place_id=ChIJ84fUaJ8R2jERe7cgIqcW3-s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=EH%20Medical%20Family%20Clinic%20%28Bukit%20Batok%29&query_place_id=ChIJ0UmXucwR2jERhUqbLcZmCcQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20%40%20Holland%20Shopping%20Centre&query_place_id=ChIJnV4ZVGoa2jERtOxCkkl9xvA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mei%20Ling%20Market%20%26%20Food%20Centre&query_place_id=ChIJCyw1YzQa2jER6EoEVDP8ywU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kopitiam%20Corner&query_place_id=ChIJrTOUj2ca2jERZ95VYErNo-c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SkyHelix%20Sentosa&query_place_id=ChIJJ00Xx9wb2jERkciae_BTcQ0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Dunlop%20street&query_place_id=ChIJ70CXH5oZ2jERkr2ALRe7H6s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CLUB%20RUMOURS&query_place_id=ChIJPV7nlq8Z2jERR-ddJbWqFPs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Clementi&query_place_id=ChIJV1VlQI4a2jERUtw8dvPxN5A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Peak%20Medical%20Novena%20%28formerly%20Island%20Medical%20Clinic%29&query_place_id=ChIJoUhFqucZ2jER9mncM9iGETE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Urbanview%20Hotel%20Kansa%20Batam%20by%20RedDoorz&query_place_id=ChIJDZ67FI2J2TER76YPE4f_uEE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Atico%20Lounge&query_place_id=ChIJM5Jrm6oZ2jERwAq2x68pSpw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=iPhonefix%20-%20IPhone%20Repair%20Singapore&query_place_id=ChIJs1d7NbsZ2jERXVHr5Df3AZ8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20The%20Clementi%20Mall&query_place_id=ChIJY4MaLY4a2jERIzLyNGQ4E0c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Macallan%20House%20Singapore&query_place_id=ChIJI_hB7QYZ2jERK2aXC8AyJpk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Festive%20Walk&query_place_id=ChIJkRh7fv4b2jER9HF6PFKJC6M"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sing%20My%20Song%20Family%20Karaoke%20Kinex&query_place_id=ChIJIZ-ObZAZ2jERtRCzSI_ZZJA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Beary%20Best%21%20Hostel%20Chinatown&query_place_id=ChIJ-x0_D48Z2jERnX3Ac3Kix84"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Bukit%20Ho%20Swee&query_place_id=ChIJMYZm8oEZ2jERFzqcK7DK5rw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lbm%20Electronics%20%26%20Hardware%20Pte%20Ltd&query_place_id=ChIJNflcEYoQ2jERGAzFPO-nmB8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Family%20Health%20Clinic&query_place_id=ChIJrZds90Ea2jERVX7BX7JeWec"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20of%20Dreams%20/%20COD%20Club&query_place_id=ChIJfUuXfHMZ2jER4k3srVB-Cu0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=AutoWheels%20MotorWorks%20Pte%20Ltd%20%28Bukit%20Batok%20Wcega%20Plaza%29&query_place_id=ChIJQ7dhyloR2jERiqbj11bRZb0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Leica%20Store%20ION%20Orchard&query_place_id=ChIJl8fT740Z2jERdBk0eldwVC0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cosmo%20Massage%20%26%20Reflexology%20%28Precious%20Foot%29%20-%20Massage%20%7C%20Tui%20na%20%7C%20Foot%20Massage%20%7C%20Gua%20Sha%20-%20Clementi&query_place_id=ChIJhbb75o0a2jERVM3rCoKhm8g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Boon%20Lay%20Place%20Food%20Village&query_place_id=ChIJ3YoS3ukP2jERkcHsff2PWBo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Party%20Era&query_place_id=ChIJXSPO4q4X2jERzIuLBMnodrM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=BERLIN%20BAR&query_place_id=ChIJd3Mq_9oR2jER1ZUDudAeyX8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Rainforest%20149%20Hostel&query_place_id=ChIJ-c1URHAZ2jERiuiMIs9hDP8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ASHMI%20MINIMART&query_place_id=ChIJ1-ezxs0b2jERNI0gQOrTH8Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Heng%20Seng%20Pawnshop&query_place_id=ChIJ0wd0BGcX2jERXliCioR4Fxg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%28Bugis%20Cube%29&query_place_id=ChIJK8bxTaUZ2jERuAr7EahDYWc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Denki%20Plaza%20Singapura&query_place_id=ChIJmSw7zGwZ2jERbup1sMu5xv0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20pagoda&query_place_id=ChIJl0XULl-L2TERxlyiLW-zU7Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Challenger%20%28Tiong%20Bahru%29&query_place_id=ChIJsUxjw3kZ2jER6R0tzPSFBm8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Menara%20Electro%20Ltd&query_place_id=ChIJ4WVdrmsa2jERMfNDM5WX6I8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Common%20Man%20Coffee%20Roasters%20-%20Stanley%20Street&query_place_id=ChIJzeQ8gw0Z2jERhGLaINksUXI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Backpackers%27%20Inn%20Chinatown&query_place_id=ChIJUWfrsAwZ2jERyJDADPiIb4I"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mobile%20Works%20Repair&query_place_id=ChIJVU9bQxs92jERwLohHrvj4Zw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Forte%20Karaoke%20Pub&query_place_id=ChIJzd8MgX8P2jER-4GIk3uj7i8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20Tiong%20Bahru%20Plaza&query_place_id=ChIJjWEM0X4Z2jER_GFbcVs_brU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Gadget%20Surelution&query_place_id=ChIJj_6BtMIZ2jERqMfU-cmMpyc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=minnale2.0%20night%20club&query_place_id=ChIJfxcUZJEZ2jER7xLKNoK7ri8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%28Cineleisure%20Orchard%29&query_place_id=ChIJr4LRqgYZ2jERkdb7Roj5W-w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Eat%20Talk&query_place_id=ChIJKZsJ1WIb2jER0pxDIgzu84o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Campbell%20Inn&query_place_id=ChIJVXlHG7kZ2jERv1XNyCoLFow"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Finest%20111%20Somerset&query_place_id=ChIJdULpDY0Z2jERi_hCtiKRB-w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hawkers%27%20Street%20%40%20ION&query_place_id=ChIJsUJymcwZ2jERaYAaWRthb5s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20VR%20Club%20%28previously%20Go%20VR%29&query_place_id=ChIJ1weizjQZ2jERWlTPhOGPmR0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=409%20AMK%20Market%20And%20Food%20Centre&query_place_id=ChIJBYEYQR0X2jERTlmOUoDyW5c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJM1QFpmsa2jERnImhtCe2Oas"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fusion%208&query_place_id=ChIJ6Rv4OtMZ2jERLHSqD32A3fw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ugly%20Coffee&query_place_id=ChIJI8deRccb2jERdj1BMwUaQKM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cluny%20Food%20Court&query_place_id=ChIJWRRo0hwa2jERcWa2eYItLFQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Challenger%20%28313%20%40%20Somerset%29&query_place_id=ChIJ6cAC2JAZ2jERIq9HZdzAX3Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bukit%20Merah%20View%20Market%20%26%20Hawker%20Centre&query_place_id=ChIJZYVWBn4Z2jER-Wvcz8eQOnM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairCare%20Family%20Clinic%20%28Clementi%29-%E7%A6%8F%E5%BA%B7%E8%AF%8A%E6%89%80&query_place_id=ChIJ9UzvQfQb2jERmmepYUgmdY4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cloud%20Forest&query_place_id=ChIJd0VihwEZ2jERKeREhO6G1Qg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ABC%20Hostel&query_place_id=ChIJoTHzJ7cZ2jER3tP6-epuOD0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Bohemian&query_place_id=ChIJ8zaesgwZ2jERuXipCiacK1A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20V%20Spa&query_place_id=ChIJUygvw1UF2jERCudn9VSiUYY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Les%20Bouchons%20Rochester&query_place_id=ChIJMyzw5gYb2jERAVsDQLe7XYY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20L%20Hotel%20Entertainment&query_place_id=ChIJAb76BYKJ2TEROqdxbRi89Jc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fusion%20Wellness%20Massage&query_place_id=ChIJ8bIR3bsb2jERVG2sYn5jZ10"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mega%20Adventure%20-%20Singapore&query_place_id=ChIJpxs67_sb2jER1pJkEAHxc0Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Zone%20X&query_place_id=ChIJQ9GtUNIR2jERwsm5y63GbSQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ang%20Mo%20Supermarket&query_place_id=ChIJqZHhhGgX2jERYDhYPfIWG4s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Singapura%20Mobile%20Repair%20%28AMK%29&query_place_id=ChIJoTJHd5YX2jERgS995paVEag"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lee%20Thong%20Auto%20Service&query_place_id=ChIJSbNLPcwb2jERE0cbhGteLt8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20Clementi%20Ave&query_place_id=ChIJp9ZrEIka2jERn5mVRHSOsMo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJ-aizY9QR2jERFGfA9E8vZcQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lite%20Mobile&query_place_id=ChIJ0cBwvsEP2jEReEIxuivwM-0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Hostel%20Singapore&query_place_id=ChIJ098XKXMZ2jERUUufr7hCmTo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo%20%40%20Suntec%20City%20L3&query_place_id=ChIJl_RoGgAZ2jERPARPaGcXwGE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Bukit%20Gombak%20MRT%20Station&query_place_id=ChIJEQovgWcR2jERoXNNfE9rquM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hopscotch%20%28Capitol%29&query_place_id=ChIJG0xEFbIZ2jER95y7R-Z8JJs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Jurong%20West%20Hawker%20Centre&query_place_id=ChIJZYudK5EP2jERoyXvsmYRcEY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Parkway%20Parade%20-%20Arcade%20Games%20%26%20Birthday%20Party%20Venue&query_place_id=ChIJAQAAuHEY2jER5kMiboeEoHk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ConnectIT&query_place_id=ChIJI-m755EZ2jERCAQ2QTcgil8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ValueMax%20Pawnshop%20%26%20Jewellery%20Shop%20%28Lucky%20Plaza%20Branch%29&query_place_id=ChIJCaSfhRcZ2jER2EI-os2bVlI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sisters%E2%80%99%20Islands%20Marine%20Park&query_place_id=ChIJq6qqJoge2jERFyOllgktDCg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Candy%20K-Bar%20Family%20Karaoke&query_place_id=ChIJSwWbb3QZ2jERBjM_WXA6a_k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Thai%20Therapy%20Massage&query_place_id=ChIJSRqNaHYb2jERS3nVdAKX9Jc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kopitiam%20Food%20Hall&query_place_id=ChIJb9T5PA8Q2jERg9gtGzcYV6Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJLQSo27M92jERZo20ZKJGaNk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=TAWFIQA%20TRADING%20PTE%20LTD&query_place_id=ChIJXYw3OCkb2jERaDiEVqpJo4w"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Overworld%20VR%20Singapore%20%7C%20Virtual%20Reality%20Gaming%20Centre&query_place_id=ChIJa1J8N8gZ2jERpATIMJLgpyY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJ_YB4KMYb2jERjzJ17850exU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chimichanga%20Holland%20Village&query_place_id=ChIJIx9JFzkb2jERveKPno-5iNo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers%20Vivo%20City&query_place_id=ChIJVRt6mlgZ2jERsANtPxh7tWM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Han%20Car%20Repairs&query_place_id=ChIJATNfnc4b2jERPpMn7Nj7i88"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HOLYCRAB&query_place_id=ChIJp7Nh_K8Z2jERjNj0FuGOBfA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Koufu%20%28Fusionopolis%29&query_place_id=ChIJBRjm908a2jERGNlC1Q6yl_s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Zhangxin%20Repair&query_place_id=ChIJuawBeE0Z2jERI06TKsO_IVU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Mobile%20%28City%20Plaza%29&query_place_id=ChIJNavkrRcY2jERPrTKKWHmBA4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Albert%20Centre%20Market%20%26%20Food%20Centre&query_place_id=ChIJU1QEGUQZ2jER0IggYygZFSs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Teo%20Heng%20KTV%20Studio%20%28CentrePoint%29&query_place_id=ChIJo9xnhtAZ2jERVgV--SS4ZRA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ah%20Koon%20Motor&query_place_id=ChIJOdhHns4b2jERY-dCAwhTuG4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Pek%20Kio%20Market%20%26%20Food%20Centre&query_place_id=ChIJKcCAXsMZ2jERJtnerWi_JYw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mobile%20Life%20Bishan%20%7C%20Phone%20Repair%20Singapore%2C%20Iphone%20Repair%2C%20Ipad%20Repair%2C%20Samsung%2C%20Apple%20Watch&query_place_id=ChIJ_-S9kBYX2jERLoOploNd4oU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Colbar&query_place_id=ChIJwSA3Jkoa2jERuxc4pjh3_Ug"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=PhoneDoctor%2B%20-%20Professional%20Laptop%20%26%20Phone%20Repair%20Bedok&query_place_id=ChIJK6jYHrMi2jERpPz-U2PV6nY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Potato%20Boutique%20Hostel&query_place_id=ChIJpTKMoP4Z2jERApJ4N4gfF_g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ALPHA&query_place_id=ChIJy51l7UsZ2jERkHULlYhkqa4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Q%20Loft%20Hotels%40Bedok&query_place_id=ChIJ2RYvmDE92jERydbpoKoXNZ4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Le%20Belle%20Spa%20Clementi&query_place_id=ChIJaz9CEwsb2jERUEly58aAtwI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Alexandra%20Village%20Food%20Centre&query_place_id=ChIJdZupgcsb2jERP1Byeb2I-24"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ION%20Sky&query_place_id=ChIJRW8Hwo0Z2jEREk5x5tk4JIg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=BW%20Workshop%20Services%20Pte%20Ltd&query_place_id=ChIJR4Sqy_YX2jERvGEUgDMTVi4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Alchemist%20The%20Heeren&query_place_id=ChIJAwpEC4oZ2jER9QdZMu7A2Ec"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kommune%20by%2082Soho&query_place_id=ChIJ7f5s8uYZ2jER6e7zX-8ltUU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=House%20of%20Traditional%20Javanese%20Massage%20%28West%20Coast%29&query_place_id=ChIJLVO44bsb2jERZf4eilQJ5bc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Octobox&query_place_id=ChIJFWSkiCIb2jERuoWx4pXdD0Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=BGAIN%2022%20Old%20Street%20Coffee%20House&query_place_id=ChIJ6fUPongZ2jERZ8memK2yTQo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Back%20Street%20Alley%20%7C%20Singapore%20Buona%20Vista%20Cafe%20%26%20Bar%20with%20Local%20Fusion%20Food&query_place_id=ChIJe5jFSxob2jERQIHIQ7Vz1fk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7%20Wonders%20Capsule%20Hostel&query_place_id=ChIJn_ejWMgZ2jERwi-2p1n61ew"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Rucksack%20Inn%20Tyrwhitt%20Road&query_place_id=ChIJfegSOskZ2jERgWQ-gotr9Jw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SPARK%20Car%20Care%20%28Pandan%29&query_place_id=ChIJO7V3cMMa2jER-E6HRJT2fT8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=All%20Time%20High%20Family%20Karaoke&query_place_id=ChIJA3brpowZ2jERciOxpRVM-to"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=King%27s%20Arcade&query_place_id=ChIJgRkgPQYa2jERY0l4yAuy74I"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=New%20Century%20Cafe&query_place_id=ChIJ6Rrr6mga2jERPTBI8olzQ4k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers&query_place_id=ChIJYwjTaXMZ2jERG0pEh8q-Naw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Dutch%20Colony%20Coffee%20Co.&query_place_id=ChIJc8eu-Tsb2jERsLmot_OCKik"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Club%20Evo%20Singapore&query_place_id=ChIJBXL-7wYZ2jER5dvK0ltBBrs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Blackbird&query_place_id=ChIJubM5dkcb2jERswOH6MM5o5A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Unity%20Medical%20Clinic&query_place_id=ChIJ-1Las5Ib2jER9y7aRi1-ows"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=CS%20Fresh%20Gold%20%40%20Paragon&query_place_id=ChIJl_sOMpIZ2jERxxBnQVJpECQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Father%E2%80%99s%20Feet%20%28City%20Hall%29%20%28Capitol%20Singapore%29%20-%20Foot%20Reflexology%20and%20Body%20massage&query_place_id=ChIJawhunb0X2jERVLaudVplCHE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers%20NUS%20Engineering&query_place_id=ChIJN6B8cMAb2jERhGKDwfDHqjs"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheng%20Siong%20Supermarket&query_place_id=ChIJC_92-Gca2jERSrlTfrBrrZk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Khazana%20-%20Bollywood%20Music%20Lounge&query_place_id=ChIJF5dySwoZ2jERwCr-Ta4u5a0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=U%20Auto%20Care%20Pte%20Ltd&query_place_id=ChIJtdjG1AsR2jERTfYIhOht6os"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=NEWest&query_place_id=ChIJ58zgd34b2jERDEawXFNpWOE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Golden%20Bay%20Hotel&query_place_id=ChIJ31G6xsWJ2TERoCPzDBY9XsY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Dining%20Avenue&query_place_id=ChIJBfpIMFIa2jER0kicxx7NJvk"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sheng%20Siong%20Supermarket&query_place_id=ChIJVYEAaEca2jERpxajHtlWFRE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tiong%20Hoe%20Specialty%20Coffee&query_place_id=ChIJJ9wWkzQa2jER1NZNUnhOfJw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sim%20Lim%20Electronics&query_place_id=ChIJ4eMMkbkZ2jERlxfTWtE51JI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Shenton%20Foodhall&query_place_id=ChIJcait2t8Z2jER6lDCe0HA9GU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ipanema%20World%20Music%20Bar&query_place_id=ChIJ3Tcl0IwZ2jERmv-ifIl4cro"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Blk%2075%20Lorong%205%20Toa%20Payoh%20Food%20Centre&query_place_id=ChIJFfT4fG8X2jERCFpsC9oGtR8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Republic%20%40%20City%20Square%20Mall&query_place_id=ChIJEdrxHcYZ2jERt80Me85JjaQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Xiaoxi%20Massage%20Centre&query_place_id=ChIJHwZEaooQ2jER5_d4CYVTgnQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Picotin%20Brewhaus%20-%20Rochester&query_place_id=ChIJn_-VG6Ub2jEReJQnN3fCGow"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hatyai%20Thai%20Massage%20-%20Kneading%20your%20needs%20since%201996&query_place_id=ChIJb71GQHMZ2jERJLKGF1v3e88"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Kiss%20Dance%20Club&query_place_id=ChIJqTGQ9j8Z2jERGugWhp-dL4U"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=uBreakiFix%20Sun%20Plaza%20Handphone%20%26%20Computer%20Repairs%20%26%20Sim%20Card&query_place_id=ChIJl_IWLH0T2jERaFF80D_Hnzw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Taman%20Jurong%20Food%20House&query_place_id=ChIJzxhNAfsP2jERlxjyL8lLOhg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Mobile%20%28Yishun%29&query_place_id=ChIJgaj5FLAV2jERstww5XXw9Xw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Paco%20FunWorld%20-%20IMALL&query_place_id=ChIJQzng3aUZ2jER7n_2ioha14Y"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Coronation%20Clinic&query_place_id=ChIJYaNBnQga2jERyO4nNAFIeto"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7%20Wonders%20Hostel%20%40Upper%20Dickson&query_place_id=ChIJWboMwF4Z2jERGthVmCxLF8k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cowboy%20Utopia%20by%20Zone%20X&query_place_id=ChIJXVq1TyI92jER3kybJKBKUCQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Urban%20Hostel%20%40%20Aljunied&query_place_id=ChIJlxFkODsY2jERv3Yvn4eHbl4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Podstop&query_place_id=ChIJdfwCMhMZ2jERqDHNJh1u_Ck"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Havana%20KTV%20Nightclub&query_place_id=ChIJ4-mXbDIZ2jERLA7zqj8KtlQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bose%20%40%20Paragon&query_place_id=ChIJhSZUWLgZ2jERDZjdEc3IMTc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Canning%20Park&query_place_id=ChIJVSYjJKIZ2jERpRFinATD52s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=House%20of%20Traditional%20Javanese%20Massage%20%28Bukit%20Timah%20Sixth%20Ave%29&query_place_id=ChIJ____L58Q2jERy_vLjmTIbeM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Healing%20Touch%20%28Alexandra%20Branch%29&query_place_id=ChIJzSXR_DIa2jERKiaFIegEa7E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sonos%20Flagship%20Store%20by%20TC%20Acoustic%20%40%20Wheelock%20Place&query_place_id=ChIJ8bmq9aYZ2jERdDEy5WQwuH0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Aces%20Mobile&query_place_id=ChIJ_5M-cc0b2jERMEhBde9vX8s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Telok%20Blangah%20Hill%20Park&query_place_id=ChIJa1WN9dob2jERWFxNMq2ZVgM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJFRknIwAb2jERw-SP2t03MVM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Alpha%20Motorsports%20%7C%20Tuning%2C%20Servicing%20%26%20Car%20Repair%20Workshop%20in%20Singapore&query_place_id=ChIJvxiRbd8R2jEReMYQmlVHmPY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxi-Cash%20%28Clementi%29&query_place_id=ChIJhc2HPI4a2jER_UUkQPd2Vsw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Chef%20Li%20Supreme%20Ramen%20Xiao%20Long%20Bao&query_place_id=ChIJv70bW4Ab2jERBOCK37a-gFo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Challenger%20%28Vivo%20City%29&query_place_id=ChIJQ7ONulgZ2jERQ9jFZKGjxq4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Paco%20FunWorld%20-%20Bugis%2B&query_place_id=ChIJb-LKuPcZ2jER0jwpsAQvZlY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sens%20Spa%20%28Clementi%29&query_place_id=ChIJOVrqEYka2jER-GQXn7fe-rw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=OYO%2092988%20City%20Room&query_place_id=ChIJz7PjZEqJ2TERyFXqUoJ8BLI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cheers&query_place_id=ChIJ0c3mLE8b2jER8cWhij1nHtg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lite%20Mobile%20-%20Boon%20Keng&query_place_id=ChIJo2ba2TAZ2jER_tmL-DYfknc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Challenger%20%28JEM%29&query_place_id=ChIJxRY4rA8Q2jERcNZ9Ym7b13k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SMA%20Mobile%20Pte%20Ltd%20-%20Serangoon&query_place_id=ChIJNwu7KqYX2jERXKODPqI1Ax0"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20Central%20Hotel&query_place_id=ChIJBYPyrIeJ2TERCZU_VY6KTJA"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=X-Scap8%20%40%20Orchard%20Central&query_place_id=ChIJZ1g5KfAZ2jERjdujlKmc3N8"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lite%20Mobile%20-%20Bishan&query_place_id=ChIJod9z5vwX2jERLvBcZeQaTfY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Timezone%20Pasir%20Ris%20Mall&query_place_id=ChIJnZGat6M92jERcapGq8-D85Q"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJ7WVN2X8b2jER00M1lbb-Z2k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Hotel&query_place_id=ChIJ-z2ay4eJ2TER41gSXk2bSR4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bedz%20KTV%20Pub&query_place_id=ChIJgyzUS_gb2jERe-icY_-qf-M"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Capital%20O%20664%20Romance%20Hotel&query_place_id=ChIJp8xnhY-L2TERY3hNyx7byos"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lotus%20Hostel&query_place_id=ChIJOyCpHGUZ2jERijK8YvLQUCY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cold%20Storage%20Clementi%20Arcade&query_place_id=ChIJF9WwooMa2jERojSmCo5p7XQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=PGPR%20Aircon%20Food%20Court&query_place_id=ChIJ98xbtukb2jER9cX3aB2P6qM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=1%20Car%20Service%20Workshop%20-%20Gearbox%2C%20Aircon%20and%20Engine%20Specialist%20%40%20Sin%20Ming%20AutoCity&query_place_id=ChIJgbfhkXEX2jERSRdqiz6gSgo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tanjong%20Rimau&query_place_id=ChIJlU5srvEb2jERaUFaxppGmGo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bliss%20Medical%20Clinic&query_place_id=ChIJg4I4P_kb2jERiDhmJVZVrsU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxi-Cash%20%28Little%20India%2061%20Serangoon%20Rd%29&query_place_id=ChIJD9jQwLgZ2jERq48LBBK909E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Absolut%20Budget%20Workshop%20Pte%20Ltd%20-%20Affordable%20%7C%20Reliable%20Car%20Workshop%20Singapore&query_place_id=ChIJVUvHxYUR2jERKrvGNLcYMpM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Sembawang%20Hills%20Food%20Centre&query_place_id=ChIJH1HG6tEW2jERGsch7FbDL5g"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ang%20Mo%20Supermarket&query_place_id=ChIJ3d-qTdoW2jERjR5RsN5MalY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Duxton%20Plain%20Park&query_place_id=ChIJKYNzcHIZ2jERAyCQV-Iajbo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tess%20Bar%20%26%20Kitchen%2C%20Singapore&query_place_id=ChIJZyU5oKUZ2jERGP3wEWHhjyQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Party%20World%20KTV%20%28Waterfront%20Plaza%29&query_place_id=ChIJ6VzBuqQZ2jER3hnwhobCmwU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Connections%20Lounge&query_place_id=ChIJw6JUMnYZ2jERGI7PAw52dNM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Mile%20Food%20Centre&query_place_id=ChIJ04DTdbQZ2jERFt4kBQi-E60"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Teo%20Heng%20KTV%20Studio%20%28StarVista%29&query_place_id=ChIJj9enwUIa2jERK8wEjSmGA9A"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Lobby%20Bar&query_place_id=ChIJIQhyKuwZ2jER2c3nl6L6YgI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=RedDoorz%20near%20Nagoya%20Hill%20Mall%20Batam%205&query_place_id=ChIJw4FAV7eJ2TERHJIcj0SPpBc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Ning%20Kang%20TCM%20Clinic%20%40%20Clementi&query_place_id=ChIJyWOBGeEb2jERbnNvyobUIUY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Atelier&query_place_id=ChIJzRa51wwZ2jERpoTcTURIu1k"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Dream%20Karaoke&query_place_id=ChIJd_Jhmm0Y2jERlRsx0lOw59o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=K.STAR%20%40%20Plaza%20Singapura&query_place_id=ChIJE_yRBNEZ2jERom-_-Qo4uxo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Communication%20Mobile%20Services%20Pte%20Ltd&query_place_id=ChIJIWeYFboZ2jERrqKuvFPtTYU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=KGC%20Workshop%20Pte.%20Ltd.&query_place_id=ChIJm02cCCQX2jERoktOXwgvTlo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Hopscotch%20%28Gillman%20Barracks%29&query_place_id=ChIJwW2HxhIZ2jERPfuslwkUPNg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Clementi%20Arcade&query_place_id=ChIJtbyEvYMa2jER77Hu-7hp-Eg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Newton%20Food%20Centre&query_place_id=ChIJe4wL_OsZ2jERySoDk6jlhNQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Certified%20Phone%20Laptop%20iPad%20Repair%20Funan&query_place_id=ChIJAUYO03YZ2jERQwI_ChkrA3o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MARQUEE%20Singapore&query_place_id=ChIJs7z7vNsZ2jERh9cyPNNLFiQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Niks%20Maple%20West%20Clinic&query_place_id=ChIJ_wzNSw8Q2jERU40544-MX90"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Brash%20Boys%20Coffee&query_place_id=ChIJ30rumbcb2jERXAG34V6Jr0E"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Xinya%20Auto%20Services%20Pte%20Ltd&query_place_id=ChIJ3UrxAswb2jERfH2KEhYxaf4"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=ibis%20budget%20Singapore%20West%20Coast&query_place_id=ChIJs60pLPwa2jERIh07G49yiVY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Food%20Canopy%20-%20Singapore%20Poly&query_place_id=ChIJ0bTI2WEa2jERw1EtXS8A-ck"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mac%27s%20Cafe%20%26%20Bar&query_place_id=ChIJf_7aYUUa2jER0lSLiMyewqc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%94%AF%E4%B8%802%20Only%20One%202%20Music%20Lounge&query_place_id=ChIJ301NPcgZ2jERDZbQsX9BHCI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=FairPrice%20PSA%20Branch&query_place_id=ChIJwz3yHMEb2jERolztbVQZjiI"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Fu%20San%20Auto%20Shine%20Pte%20Ltd%20-%20%28Continental%20%26%20Japan%20Car%20Repair%20Workshop%29&query_place_id=ChIJ_S5Iqqcb2jERBd3tlXCIekQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=MoneyMax%20Pawnshop%20-%20Toa%20Payoh%20HDB%20Hub&query_place_id=ChIJ3bNYuWYX2jER-7VJnj7jVbQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=6%20%40%20Holland%20Coffeeshop&query_place_id=ChIJO7P4d80b2jER1pY36Y1e4xE"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Tree%20House%20Spa&query_place_id=ChIJh9kHG5kZ2jER7YWaAoay7Ps"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=RECESS%20TIME%20%40%20LENG%20KEE&query_place_id=ChIJ39CKPAIb2jERmGC4OlYA_Kc"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Northeast%20Medical%20Group%20%28Buona%20Vista%20Clinic%29&query_place_id=ChIJC_92-Gca2jERyZdmH3nEaeo"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Bub%20Coffee&query_place_id=ChIJKYC4Hrgb2jERKbkUY-PLUXQ"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Anteroom%20Coffee%20Brewers&query_place_id=ChIJ-fh5idYb2jERIrbkR_BNMiY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=7-Eleven&query_place_id=ChIJiRajM8Ub2jERX2OE8E8ufHM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Yim%20Clinic%20%26%20Surgery&query_place_id=ChIJ6xzOJX4Z2jER4ime2GzZ1Zw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Takeda%20Garden%20Roof%20Top%20Bar&query_place_id=ChIJM2UWCFkb2jERGCpYcNqx3GM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Level%20Up%20-%20Live%20Music%20%26%20Arcade%20Bar%20%40%20Clarke%20Quay&query_place_id=ChIJmQ9nIKAZ2jERNjKLlBcUxKU"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Circular%20House&query_place_id=ChIJwSrRwAAZ2jERDgTzBUacmdY"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Mobile%20Life%20Serangoon%20Nex%20%7C%20Phone%20Repair%20Singapore%2C%20Iphone%20repair%2C%20Ipad%20repair%2C%20Samsung%2C%20Apple%20Watch&query_place_id=ChIJac5iwaYX2jERE1-Z2hzt5LM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Marina%20City%20Tourist%20Hub&query_place_id=ChIJRZxKoYIZ2jERGplsSHebyHM"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=24-Hour%20Walk-In%20Clinic%20at%20Mount%20Elizabeth%20Novena&query_place_id=ChIJJVgfrOAZ2jERZlA9pPX9e2o"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Gap%20Year%20Hostel&query_place_id=ChIJmWlfS84Z2jER_e79dFy8ahg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Teo%20Heng%20KTV%20Studio%20%28Kallang%20Wave%20Mall%29&query_place_id=ChIJfycAOfQZ2jERbs4mdllmB7c"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=SuperBowl%20Jurong&query_place_id=ChIJq6qqulUF2jERIV5_B8xBYYw"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Istana%20Park&query_place_id=ChIJGeWzwMUZ2jERUmSzZCF_59M"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Pajak%20Gadai%20Well%20Chip%20%283%29%20Sdn%20Bhd%20%28%E5%BD%93%E5%BA%97%29%20-%20Pasir%20Gudang&query_place_id=ChIJYfOTzVAV2jER0NGoQvj2u8s"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=HaveFun%20Karaoke%20%26%20Bistro%20%28Thomson%20Plaza%29&query_place_id=ChIJrd5LNwIX2jER1F4Z5kptLpg"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&query=Cow%20Play%20Cow%20Moo&query_place_id=ChIJ9xxeWQAb2jERMoLm4eCO3kM"
+    }
+  ],
+  "maxReviews": 0,
+  "reviewsSort": "newest",
+  "language": "en"
+}
