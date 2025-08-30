@@ -36,20 +36,19 @@ As Google Maps reviews are multimodal (text, video, pictures), we chose to only 
 
 3. **Extracting Features**
 
-We considered all metadata of the reviews. However, it has no correlation to the relevancy of the reviews. For example, a 5 star review has no indication about the relevancy of the review.
-Thus, we decided to drop them.
+We considered all metadata of the reviews. However, it has no correlation to the relevancy of the reviews. For example, a 5 star review has no indication about the relevancy of the review. Thus, we decided to drop them.
 
 4. **Modeling**
 
-Our solution consists of BERT classification. We classify the reviews into clean or flagged. We train the model based on GPT-5 labelled data from UCSD.
+Our solution consists of BERT classification. We classify the reviews into clean or flagged. We train the model based on GPT-5 labelled data from UCSD. The training data is cleaned by having equal amounts of clean and flagged reviews.
 
 5. **Policy Module**
 
-Our solution will consider other languages as input. We will call Google Translate API to translate before feeding into BERT for classification.
+Our solution will consider other languages as input. We will call Google Translate API to translate before feeding into BERT for classification. If the reviews have no text, we consider it as flagged.
 
 6. **Testing**
 
-We test our solution on manually scrapped and labelled data from Google Maps. Location is based in Singapore. This is to test our model for global context.
+We test our solution on both kaggle dataset (see [setting up](#setting-up)) as well as manually scrapped and labelled data from Google Maps which is based in Singapore. This is to test our model for global context.
 
 ## Setting up
 1. Install [conda](https://www.anaconda.com/download).
