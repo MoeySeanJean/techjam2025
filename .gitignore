@@ -1,5 +1,4 @@
 /data/*
-/data/saved_model/model.safetensors
 .env
 !/data/review-Vermont_10-labeled.csv
 !/data/review-Vermont_10-cleaned.csv
