@@ -61,7 +61,7 @@ Our solution consists of BERT classification. We classify the reviews into clean
 
 5. **Policy Module**
 
-Our solution will consider other languages as input. We will call Google Translate API to translate before feeding into BERT for classification. If the reviews have no text, we consider it as flagged.
+Our solution will consider other languages as input. We will call Google Translate API to translate, then the emojis will also be removed from the reviews before feeding into BERT for classification. If the reviews have no text, we consider it as flagged.
 <br><br>
 
 6. **Testing**
