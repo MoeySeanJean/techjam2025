@@ -76,6 +76,12 @@ We provide a full pipeline of our solution (see [pipeline](#pipeline)).
 
 ## Evaluation
 
+To push our model to its limits, we deliberately scraped Google Reviews from a wide range of Singapore locations, using keywords such as hawker centre, food court, coffee shope, bar, nightclub, karaoke, etc.
+
+This diverse dataset naturally intorudced noise like slang, short forms, irrelevant rants, and inconsistent review styles. By testing under these challenging conditions, we wanted to evaluate how well our model handles the messiness of real-world reviews.
+
+Despite the complexity, our model achieved over ~65% accuracy and ~77% F1. It shows very high precision (97%) for clean reviews, ensuring trustworthy recommendations, but tends to over-flag reviews, trading precision for flagged reviews in favor of higher recall. This highlights both robustness in filtering spam and the challenge of imbalanced data.
+
 ### Findings
 
 1. Kaggle dataset
