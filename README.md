@@ -69,6 +69,54 @@ Our solution will consider other languages as input. We will call Google Transla
 We test our solution on both kaggle dataset (see [setting up](#setting-up)) as well as manually scrapped and labelled data from Google Maps which is based in Singapore. This is to test our model for global context.
 <br><br>
 
+## Evaluation
+
+### Findings
+
+1. Kaggle dataset
+```
+Accuracy:  0.9127
+Precision: 0.9828
+Recall:    0.9127
+F1 Score:  0.9448
+Class-wise metrics:
+'clean' -> Precision: 0.9930, Recall: 0.9182, F1: 0.9542, Support: 1088
+'flagged' -> Precision: 0.0532, Recall: 0.4167, F1: 0.0943, Support: 12
+```
+This dataset contains only 12 flagged reviews, but our model can accurately tagged clean reviews as 'clean'. Some 'flagged' reviews are clean, but as false positive is less costly than false negative in real world scenarios, this is acceptable.
+
+2. Singapore dataset
+```
+Accuracy:  0.6476
+Precision: 0.9742
+Recall:    0.6476
+F1 Score:  0.7662
+Class-wise metrics:
+clean -> Precision: 0.9949, Recall: 0.6430, F1: 0.7812, Support: 3622
+flagged -> Precision: 0.0507, Recall: 0.8519, F1: 0.0956, Support: 81
+```
+This dataset contains 81 flagged reviews. Same reason as above, but due to higher number of flagged reviews, accuracy is lower. However, as discussed above, this is acceptable.
+
+### Limitations
+
+1.  **Short Forms & Abbreviations**: Users often write in shorthand or local slang (e.g., “ugwim”), which makes interpretation difficult.
+
+2. **Spam & Promotional Noise**: Repeated ads or copy-paste reviews still appear and distort credibility.
+
+3. **Location-Specific Context**: Some reviews only make sense within a local or cultural context, which complicates classification.
+
+4. **Emoji-Only Reviews**: Posts with only emojis don’t convey meaningful feedback and are flagged as irrelevant by our model.
+
+5. **Non-text reviews**: Posts without text are flagged by our solution, as text should be main source of reviews and reviews without text are not representative of the actual reviews.
+
+### Recommendations
+
+To improve the performance, we can implement multi-model solution to tackle the multimodality of reviews. We can also get a better and larger training data to improve model performance.
+
+## Pipeline
+
+Our pipeline is in `pipeline.ipynb`. Given a list of any real-world review, our pipeline will output 'clean' or 'flagged'.
+
 ## Setting up
 1. Install [conda](https://www.anaconda.com/download).
 2. Create and activate conda environment.
