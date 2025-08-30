@@ -140,28 +140,22 @@ OPENAI_API_KEY=[your_key_here]
 1. `llm.ipynb`
    - Contains an alternative solution with LLM
    - Discarded due to expensive and slow inference
-<br><br>
 2. `labelling.ipynb`
    - Calls OpenAI API for GPT-5 labelling task
    - Labels our training data
-<br><br>
 3. `data_cleaning.ipynb`
    - Prepare the data for training
    - Match the amount of flagged and clean reviews in dataset
-
 4. `bert.ipynb`
    - Train the model
    - Test the model with few examples
-<br><br>
 5. `pipeline.ipynb`
    - Final solution pipeline
    - Evaluation of solution
-<br><br>
 6. `./data`
    - Cleaned and labeled data used for testing and training
    - Testing data scrapped and labelled manually
    - Trained model
-<br><br>
 
 ## Contributions
 
