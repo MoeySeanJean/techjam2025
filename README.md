@@ -58,7 +58,7 @@ We test our solution on manually scrapped and labelled data from Google Maps. Lo
 conda create -n techjam2025
 conda activate techjam2025
 ```
-3. Install CUDA (**required for training model**).
+3. Install CUDA (**required for training and evaluating model**).
 ```bash
 conda install conda install cuda -c nvidia/label/cuda-12.9.0 -c nvidia/label/cuda-12.9.1
 ```
@@ -92,7 +92,9 @@ OPENAI_API_KEY=[your_key_here]
 - Evaluation of solution
 
 6. `./data`
-- Contains cleaned and labeled data used for testing and training
+- Cleaned and labeled data used for testing and training
+- Testing data scrapped and labelled manually
+- Trained model
 
 ## Contributions
 

@@ -4,3 +4,5 @@
 !/data/review-Vermont_10-cleaned.csv
 !/data/reviews-cleaned.csv
 !/data/reviews-labeled.csv
+!/data/test-data-labeled.csv
+!/data/saved_model/
