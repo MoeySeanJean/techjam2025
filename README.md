@@ -69,6 +69,11 @@ Our solution will consider other languages as input. We will call Google Transla
 We test our solution on both kaggle dataset (see [setting up](#setting-up)) as well as manually scrapped and labelled data from Google Maps which is based in Singapore. This is to test our model for global context.
 <br><br>
 
+7. **Pipeline**
+
+We provide a full pipeline of our solution (see [pipeline](#pipeline)).
+<br><br>
+
 ## Evaluation
 
 ### Findings
@@ -146,13 +151,14 @@ OPENAI_API_KEY=[your_key_here]
 3. `data_cleaning.ipynb`
    - Prepare the data for training
    - Match the amount of flagged and clean reviews in dataset
-4. `bert.ipynb`
+4. `training.ipynb`
    - Train the model
    - Test the model with few examples
-5. `pipeline.ipynb`
+5. `testing.ipynb`
+   - Evaluate the model on kaggle or manual datasets
+6. `pipeline.ipynb`
    - Final solution pipeline
-   - Evaluation of solution
-6. `./data`
+7. `./data`
    - Cleaned and labeled data used for testing and training
    - Testing data scrapped and labelled manually
    - Trained model
